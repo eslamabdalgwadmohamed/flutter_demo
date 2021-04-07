@@ -1,0 +1,8 @@
+const AVAILABLE_STATUS = [194, 200, 208, 98, 35];
+const AVAILABLE_TYPE = [13, 14, 15, 16, 17, 2, 3, 4, 5, 6, 7, 8];
+
+const IN_PROGRESS_STATUS = [195, 201, 202, 203, 204, 99, 102, 103, 24, 33, 34];
+const IN_PROGRESS_TYPE = [23, 11, 12, 13, 14, 15, 16, 17, 2, 3, 4, 5, 6, 7, 8];
+
+const COMPLETED_STATUS = [205, 104, 30];
+const COMPLETED_TYPE = [23, 11, 12, 13, 14, 15, 16, 17, 2, 3, 4, 5, 6, 7, 8];
